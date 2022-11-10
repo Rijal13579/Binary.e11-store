@@ -315,9 +315,3 @@ footer a:hover{
         border-bottom: none;
     }
 }
-
-@media screen and (max-width : 450px) and (min-width: 360px) {
-    .collection-img img{
-      height: auto;
-  }
-}
