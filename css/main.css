@@ -193,6 +193,12 @@ body{
  transform: scale(1); 
 }
 
+@media screen and (max-width : 450px) and (min-width: 360px) {
+    .collection-img img{
+      height: auto;
+  }
+}
+
 /* info */ 
 .tooltip-container {
     cursor: pointer;
